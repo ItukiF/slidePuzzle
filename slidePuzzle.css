@@ -1,0 +1,10 @@
+h1 {
+    font-size: 60px;
+    margin-left: auto;
+}
+
+button {
+    display: block flex;
+    padding: 10px;
+    margin: 10px auto;
+}
